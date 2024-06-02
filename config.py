@@ -1,8 +1,8 @@
 headers= {
-  "apikey": "p685SV083NCPlwvJMGorr6zMRVyoNfJ4"
+  "apikey": "your_apikey"
 }
 
-TOKEN = '7006309666:AAHO1wGnkzFaCN95XUv3INJesWI6gHi_9kA'
+TOKEN = 'your_token'
 
 keys = {
     'euro': 'EUR',
